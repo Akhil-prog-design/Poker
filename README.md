@@ -1,1 +1,1 @@
-# Poker
+# In this project I utilize all the foundational python skills to recreate a game of poker, If you have any questions or comments on my code please feel free to email me at wyd7mz@virginia.edu. (I am always looking for ways to optimize my code, so also feel free to email me reccomendations or fixes!)
